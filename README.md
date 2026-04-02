@@ -101,8 +101,7 @@ The raw data included more than **60 variables** per flight. For this project:
 
 The project was built as a cloud-based workflow so it could handle a dataset with more than seven million rows in a practical way. Raw flight data was stored in **Amazon S3**, preprocessing was done through **custom SageMaker notebook pipelines**, cleaned data was written back to **S3**, model training and calibration were performed on the prepared dataset, and the final outputs were explored through **Tableau Desktop**.
 
-![Project Pipeline Workflow](<img width="1075" height="317" alt="image" src="https://github.com/user-attachments/assets/e54e32da-21a8-412f-b9f5-7694abf62229" />
-)
+<img width="1075" height="317" alt="Project Pipeline Workflow" src="https://github.com/user-attachments/assets/e54e32da-21a8-412f-b9f5-7694abf62229" />
 
 ### Pipeline Overview
 
