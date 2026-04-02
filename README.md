@@ -172,7 +172,7 @@ Because the classes were imbalanced, XGBoost used:
 
 This helped the model pay more attention to the minority class: delayed flights.
 
-![Train / Calibrate / Test Workflow](<img width="813" height="431" alt="image" src="https://github.com/user-attachments/assets/536adb82-49e9-4055-b08a-581671a398d9" />)
+<img width="813" height="431" alt="Train / Calibrate / Test Workflow" src="https://github.com/user-attachments/assets/536adb82-49e9-4055-b08a-581671a398d9" />
 
 ### What this split means
 
@@ -300,19 +300,19 @@ Weekend flights showed slightly elevated delay rates, which is why the `is_weeke
 
 This chart highlights how much delay risk varies across airlines.
 
-![Late Rate by Carrier](<img width="935" height="492" alt="image" src="https://github.com/user-attachments/assets/3af3e96a-7d24-400f-a785-9c7a0ee25350" />)
+<img width="935" height="492" alt="Late Rate by Carrier" src="https://github.com/user-attachments/assets/3af3e96a-7d24-400f-a785-9c7a0ee25350" />
 
 ### 2. Weekend Late Rate
 
 This view compares delay rates across the days of the week and shows the slight weekend effect.
 
-![Weekend Late Rate](<img width="884" height="468" alt="image" src="https://github.com/user-attachments/assets/a54311e3-b446-4bab-8124-1e85dff3d79d" />)
+<img width="884" height="468" alt="Weekend Late Rate" src="https://github.com/user-attachments/assets/a54311e3-b446-4bab-8124-1e85dff3d79d" />
 
 ### 3. Predicted Probabilities by Actual Class
 
 This histogram shows how the calibrated XGBoost model separates on-time and late flights through probability scores.
 
-![Predicted Probabilities by Actual Class](<img width="895" height="475" alt="image" src="https://github.com/user-attachments/assets/0871bae7-99f4-4806-9341-56269af0f149" />)
+<img width="895" height="475" alt="Predicted Probabilities by Actual Class" src="https://github.com/user-attachments/assets/0871bae7-99f4-4806-9341-56269af0f149" />
 
 ## Key Insights From the Data
 
