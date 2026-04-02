@@ -1,0 +1,8 @@
+{
+  "fit_time_s": 9.748,
+  "pred_time_s": 0.413,
+  "avg_cpu_pct": 1013.06,
+  "peak_cpu_pct": 1073.2,
+  "avg_mem_mb": 2700.83,
+  "peak_mem_mb": 2717.92
+}
