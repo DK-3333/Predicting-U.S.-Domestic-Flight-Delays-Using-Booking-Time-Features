@@ -1,0 +1,6 @@
+model,fit_time_s,pred_time_s,avg_cpu_pct,peak_cpu_pct,avg_mem_mb,peak_mem_mb
+Dummy (most_frequent),0.028,0.005,0,0,1667.2,1667.2
+Logistic Regression,161.111,0.044,1064,1089,1608.4,1822.4
+Random Forest,78.188,24.171,960.9,1054.2,2010.1,2608.1
+HistGradientBoosting,7.5,1.277,942.4,1059.7,2951.5,3104.2
+XG Boost,9.748,0.413,1013.6,1073.2,2700.83,2717.92
